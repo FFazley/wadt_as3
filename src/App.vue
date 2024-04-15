@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import profilePic from './assets/download.jpg';
+
 </script>
 
 <template>
   <div class="p-6 sm:p-12 md:p-24 flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-pink-500 to-indigo-500 rounded">
-    <img :src="profilePic" alt="Profile Picture" class="w-50 h-50 rounded-full mb-4 shadow-lg border-2 border-black" />
+    <img src= './assets/download.jpg' class="w-50 h-50 rounded-full mb-4 shadow-lg border-2 border-black" />
     <div class="text-center  text-black">
       <h1 class="text-3xl font-bold text-black mb-4">Md Farmiziee Fazley</h1>
       <p class="text-lg text-gray-200">
@@ -29,6 +29,7 @@ import profilePic from './assets/download.jpg';
             <li>Photography</li>
           </ul>
         </div>
+        
         <div>
           <h2 class="text-xl font-semibold text-black mt-8">Interests</h2>
           <ul class="text-lg text-gray-200">
@@ -38,6 +39,7 @@ import profilePic from './assets/download.jpg';
             <li>Machine Learning</li>
           </ul>
         </div>
+      
       </div>
       <h2 class="text-xl font-semibold text-black mt-8">Contact</h2>
       <ul class="text-lg text-gray-200">
