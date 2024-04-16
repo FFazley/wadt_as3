@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'/vitelearning/',
+  base:'/wadt_as3/',
   plugins: [vue()],
 })
