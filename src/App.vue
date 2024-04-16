@@ -4,7 +4,7 @@
 
 <template class="p-6 sm:p-12 md:p-24 flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-pink-500 to-indigo-500 rounded">
   
-    <img src= './assets/download.jpg' class="w-50 h-50 rounded-full mb-4 shadow-lg border-2 border-black" />
+    <img src= './assets/profile.jpeg' class="w-50 h-50 rounded-full mb-4 shadow-lg border-2 border-black" />
     <div class="text-center  text-black">
       <h1 class="text-3xl font-bold text-black mb-4">Md Farmiziee Fazley</h1>
       <p class="text-lg text-gray-200">
